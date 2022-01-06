@@ -20,6 +20,7 @@ export class TransformerHero implements ITransformer {
     this.wings = theWings;
     this.wheels = theWheels;
     this.clan = theClan
+    this.photo = thePhoto
   }
 
 }

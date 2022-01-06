@@ -20,6 +20,7 @@ export class HumanHero implements IHuman {
     this.sex = theSex;
     this.age = theAge;
     this.health = theHealt
+    this.photo = thePhoto
   }
 
 }
